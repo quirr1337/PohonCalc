@@ -1,4 +1,4 @@
-<img width="1280" height="701" alt="image" src="https://github.com/user-attachments/assets/ec6faf9f-56fc-4111-a2ad-c96205be1e79" /># PohonCalc – kalkulačka elektrických pohonov
+# PohonCalc – kalkulačka elektrických pohonov
 
 **PohonCalc** je jednoduchá webová aplikácia vytvorená v low-code platforme **Mendix**.
 Slúži na rýchly výpočet dvoch základných veličín elektrických pohonov:
