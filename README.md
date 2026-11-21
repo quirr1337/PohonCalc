@@ -1,4 +1,4 @@
-# PohonCalc – kalkulačka elektrických pohonov
+<img width="1280" height="701" alt="image" src="https://github.com/user-attachments/assets/ec6faf9f-56fc-4111-a2ad-c96205be1e79" /># PohonCalc – kalkulačka elektrických pohonov
 
 **PohonCalc** je jednoduchá webová aplikácia vytvorená v low-code platforme **Mendix**.
 Slúži na rýchly výpočet dvoch základných veličín elektrických pohonov:
@@ -67,9 +67,10 @@ M = 9550 · P / n [N·m]
 
 ## Snímky obrazovky
 
-![Hlavná obrazovka](screenshots/home.png)
-![Výpočet 1](screenshots/vypocet1.png)
-![Výpočet 2](screenshots/vypocet2.png)
+![Hlavná obrazovka](‪C:\Users\HP\Downloads\photo_2026-11-21_20-24-23.jpg).
+![Výpočet 1](‪C:\Users\HP\Downloads\photo_2026-11-21_20-24-32.jpg)
+![Výpočet 2](‪C:\Users\HP\Downloads\photo_2026-11-21_20-24-29.jpg)
+![O programe](C:\Users\HP\Downloads\photo_2026-11-21_20-24-36.jpg).
 
 ## Použitý AI nástroj
 
