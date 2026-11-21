@@ -67,8 +67,7 @@ M = 9550 · P / n [N·m]
 
 ## Snímky obrazovky
 
-![Hlavná obrazovka](‪<img width="1280" height="615" alt="photo_2026-11-21_20-24-29" src="https://github.com/user-attachments/assets/61f1733b-9b96-41b9-b12c-2e25611e9575" />
-).
+![Hlavná obrazovka](‪<img width="1280" height="610" alt="photo_2026-11-21_20-24-23" src="https://github.com/user-attachments/assets/ae03b172-6456-497f-a535-1c4cc8b30895" />).
 ![Výpočet 1](‪<img width="1280" height="615" alt="photo_2026-11-21_20-24-29" src="https://github.com/user-attachments/assets/134e2514-2a09-469b-adc3-ab79babb1812" />
 )
 ![Výpočet 2](<img width="1280" height="571" alt="photo_2026-11-21_20-24-32" src="https://github.com/user-attachments/assets/4ed1d13f-efef-4ab7-b9a8-c0bfa743a17d" />
@@ -85,6 +84,6 @@ Výsledok bol skontrolovaný a otestovaný autorom.
 
 ## Autor
 
-- **Meno:** [vaše meno]
-- **Skupina:** [vaša skupina]
+- **Meno:** [Rostyslav Kharlashko]
+- **Skupina:** [St 11:05. sk 3]
 - **Predmet:** Programovacie techniky, 2026
